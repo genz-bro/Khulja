@@ -4,7 +4,7 @@
         "username": "aditya",
         "password": "mkc",
         "expirydate": "31-01-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
